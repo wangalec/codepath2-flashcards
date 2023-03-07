@@ -1,8 +1,8 @@
 # Web Development Project 2 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Alec Wang**
 
-This web app: **insert description**
+This web app: **Flashcards of Music Terms**
 
 Time spent: **3** hours spent in total
 
